@@ -7,6 +7,7 @@ fitur-fitur yang di implementasikan pada website ini adalah
   3 button mengarah ke chating WhatsApp
   4 button search untuk pengelompokan atau memilih projects yang pernah di buat
   5 button contacts yang langsung di arah kan ke chating WhatsApp
+  
 cara menggunakan aplikasi website ini
 aplikasi ini menjelaskan tentang data diri saya(portofolio diri saya)
 anda bisa menggunakan aplikasi ini dengan memasukkan url link berikut ke search
